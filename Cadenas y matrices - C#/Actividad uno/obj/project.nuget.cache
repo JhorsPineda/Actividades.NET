@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuT67ukLF3UijMsb8bcwmVh15KKOEFg4Ht2iaGhBQ5nWP1/BUjklrcSJ9xwsj4JgqTCGOQC4CbNPI6nTASaa1w==",
+  "success": true,
+  "projectFilePath": "D:\\SENA\\Carpeta C#\\Cadenas y matrices - C#\\Actividad uno\\Music.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhors\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jhors\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jhors\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jhors\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

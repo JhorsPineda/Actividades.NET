@@ -1,0 +1,30 @@
+C:\condicionales c++\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\condicionales c++\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\condicionales c++\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\condicionales c++\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Goryplayer\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jhors\Desktop\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

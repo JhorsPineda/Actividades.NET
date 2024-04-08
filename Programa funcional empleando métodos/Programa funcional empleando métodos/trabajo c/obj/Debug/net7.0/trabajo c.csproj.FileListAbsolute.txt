@@ -1,0 +1,28 @@
+C:\Users\EdHz\Desktop\trabajo c\bin\Debug\net7.0\trabajo c.exe
+C:\Users\EdHz\Desktop\trabajo c\bin\Debug\net7.0\trabajo c.deps.json
+C:\Users\EdHz\Desktop\trabajo c\bin\Debug\net7.0\trabajo c.runtimeconfig.json
+C:\Users\EdHz\Desktop\trabajo c\bin\Debug\net7.0\trabajo c.dll
+C:\Users\EdHz\Desktop\trabajo c\bin\Debug\net7.0\trabajo c.pdb
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.AssemblyInfoInputs.cache
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.AssemblyInfo.cs
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.csproj.CoreCompileInputs.cache
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.dll
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\refint\trabajo c.dll
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.pdb
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\trabajo c.genruntimeconfig.cache
+C:\Users\EdHz\Desktop\trabajo c\obj\Debug\net7.0\ref\trabajo c.dll
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\bin\Debug\net7.0\trabajo c.exe
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\bin\Debug\net7.0\trabajo c.deps.json
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\bin\Debug\net7.0\trabajo c.runtimeconfig.json
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\bin\Debug\net7.0\trabajo c.dll
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\bin\Debug\net7.0\trabajo c.pdb
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.AssemblyInfoInputs.cache
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.AssemblyInfo.cs
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.csproj.CoreCompileInputs.cache
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.dll
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\refint\trabajo c.dll
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.pdb
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\trabajo c.genruntimeconfig.cache
+C:\Users\jhors\Downloads\CSharp\trabajo c\trabajo c\obj\Debug\net7.0\ref\trabajo c.dll
